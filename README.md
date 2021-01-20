@@ -1,3 +1,17 @@
+# Youtube
+### [Live Site](https://youtubezx.herokuapp.com/)
+
+![netflix](https://i.ibb.co/HGHZH2Y/Capture.png)
+![netflix](https://i.ibb.co/x2Q0pnj/Capture1.png)
+
+## Introduction
+This is a code repository for the corresponding Youtube . 
+
+In this repository, we're going to build a fully functional youtube application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,flexbox and material ui design and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
